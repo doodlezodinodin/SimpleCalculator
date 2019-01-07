@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="text_tv_result">Результат:</string>
+
+    <string name="text_btn_add">+</string>
+    <string name="text_btn_sub">-</string>
+    <string name="text_btn_mul">x</string>
+    <string name="text_btn_div">/</string>
+</resources>
